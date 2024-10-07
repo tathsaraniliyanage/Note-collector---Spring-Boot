@@ -7,6 +7,12 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
+/**
+ * @author Prabodha Thathsarani
+ * @date 10/6/24
+ * @project NoteCollectorV2
+ **/
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Data

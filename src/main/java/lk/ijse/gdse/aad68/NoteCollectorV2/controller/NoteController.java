@@ -14,6 +14,12 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+/**
+ * @author Prabodha Thathsarani
+ * @date 10/6/24
+ * @project NoteCollectorV2
+ **/
+
 @RestController
 @RequestMapping("api/v1/notes")
 @RequiredArgsConstructor

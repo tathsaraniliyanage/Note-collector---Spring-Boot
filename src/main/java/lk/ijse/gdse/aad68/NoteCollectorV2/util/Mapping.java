@@ -14,6 +14,12 @@ import org.springframework.stereotype.Component;
 
 import java.util.List;
 
+/**
+ * @author Prabodha Thathsarani
+ * @date 10/6/24
+ * @project NoteCollectorV2
+ **/
+
 @Component
 public class Mapping {
     @Autowired

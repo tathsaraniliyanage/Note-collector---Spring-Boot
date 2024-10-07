@@ -17,6 +17,12 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
 
+/**
+ * @author Prabodha Thathsarani
+ * @date 10/6/24
+ * @project NoteCollectorV2
+ **/
+
 @RestController
 @RequestMapping("api/v1/users")
 @RequiredArgsConstructor

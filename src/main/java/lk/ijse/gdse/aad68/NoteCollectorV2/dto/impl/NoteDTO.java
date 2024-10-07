@@ -6,6 +6,12 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+/**
+ * @author Prabodha Thathsarani
+ * @date 10/6/24
+ * @project NoteCollectorV2
+ **/
+
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
